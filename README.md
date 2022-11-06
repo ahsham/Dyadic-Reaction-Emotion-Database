@@ -8,3 +8,17 @@ Kindly make sure to have the following libraries
 pip install opencv-python, numpy, imutils, random2, sys, os, moviepy, time
 ```
 
+## Py-Feat Toolkit
+
+We added the codes for analyzing the videos using the py-feat facial expression analysis toolkit. To generate the analysis from video to csv file, run:
+```
+python py_feat_analysis.py
+```
+
+#### Make sure to change the input and destination folders before running it. The same applies for the code below.
+
+Once the analysis is over, you can use the following script to separate the people's facial expressions accordingly using the following:
+``` 
+python analyse_csv_pyfeat.py
+```
+
