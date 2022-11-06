@@ -4,7 +4,7 @@ This repository contains the codes that enables researchers to collect facial ex
 ## To get started with python
 
 Kindly make sure to have the following libraries
-'''
+```
 pip install opencv-python, numpy, imutils, random2, sys, os, moviepy, time
-'''
+```
 
