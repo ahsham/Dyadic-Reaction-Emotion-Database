@@ -13,6 +13,10 @@ To collect data, you can run the following below:
 ```
 python pilot.py
 ```
+After collecting the data, if you wish to separate all the subjects and participants, then alter the file location in the vsplit.py and run the following:
+```
+python vsplit.py
+```
 ## Py-Feat Toolkit
 
 We added the codes for analyzing the videos using the py-feat facial expression analysis toolkit. To generate the analysis from video to csv file, run:
