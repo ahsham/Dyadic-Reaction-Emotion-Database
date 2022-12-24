@@ -8,6 +8,11 @@ Kindly make sure to have the following libraries
 pip install opencv-python, numpy, imutils, random2, sys, os, moviepy, time
 ```
 
+## Data collection
+To collect data, you can run the following below:
+```
+python pilot.py
+```
 ## Py-Feat Toolkit
 
 We added the codes for analyzing the videos using the py-feat facial expression analysis toolkit. To generate the analysis from video to csv file, run:
