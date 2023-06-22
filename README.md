@@ -1,5 +1,6 @@
 # Dyadic-Reaction-Emotion-Database
 This repository contains the codes that enables researchers to collect facial expressions of a person via a webcam while watching a video. Also provided the codes that can be used to separate them if needed.
+The full paper can be found here(https://www.mdpi.com/1424-8220/23/1/458).
 
 ## To get started with python
 
